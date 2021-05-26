@@ -1,0 +1,12 @@
+
+.idea/compiler.xml
+
+.idea/jarRepositories.xml
+
+.idea/misc.xml
+
+.idea/vcs.xml
+
+target/classes/com/zuhlke/romannumeral/RomanNumeral.class
+
+target/test-classes/com/zuhlke/romannumeral/RomanNumeralTest.class
